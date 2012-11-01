@@ -1,0 +1,1 @@
+exclude: [my_hidden_folder,SecretFile]
